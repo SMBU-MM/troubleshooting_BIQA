@@ -3,12 +3,16 @@ This is the official released codes for troubleshooting BIQA in the wild
 
 ::
 
-  @article{wang2020active,
-    title={Active Fine-Tuning from gMAD Examples Improves Blind Image Quality Assessment},
-    author={Wang, Zhihua and Ma, Kede},
-    journal={arXiv preprint arXiv:2003.03849},
-    year={2020}
-  }
+   @misc{northcutt2019confidentlearning,
+     title={Confident Learning: Estimating Uncertainty in Dataset Labels},
+     author={Curtis G. Northcutt and Lu Jiang and Isaac L. Chuang},
+     year={2019},
+     eprint={1911.00068},
+     archivePrefix={arXiv},
+     primaryClass={stat.ML}
+ }
+
+
   
 ::
 
